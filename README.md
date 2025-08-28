@@ -37,4 +37,6 @@ npm install
 npm run dev
 ```
 
+handle routing and checks
+
 open your browser and navigate to http://localhost:3000
